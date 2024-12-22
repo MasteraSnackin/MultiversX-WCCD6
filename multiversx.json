@@ -1,0 +1,6 @@
+{
+  "name": "burnable_token",
+  "version": "0.1.0",
+  "description": "A burnable token contract for MultiversX",
+  "license": "MIT"
+}

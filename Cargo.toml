@@ -1,0 +1,10 @@
+[package]
+name = "burnable_token"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+multiversx-sc = "0.23.0"  # Replace with the latest version
+
+[lib]
+crate-type = ["cdylib"]
